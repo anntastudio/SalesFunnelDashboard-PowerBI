@@ -1,5 +1,5 @@
 # Sales Funnel Analytics Dashboard — Power BI
-Sales funnel analytics dashboard tracking conversions, revenue, and user segments across acquisition channels with dynamic DAX-powered filtering and formatting
+Sales funnel analytics dashboard tracking conversions, revenue, and user segments across acquisition channels with interactive filtering and dynamic formatting built in DAX.
 
 <br>
 Dashboard Preview
