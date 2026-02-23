@@ -6,7 +6,6 @@ Dashboard Preview
 
 https://github.com/user-attachments/assets/baab0509-0423-483a-9a75-fb06f1ac9eea
 
-
 <br>
 
 ## 🗂️ Data Modeling
@@ -34,7 +33,7 @@ Built a multi-visual single-page dashboard featuring:
 <br>
 
 ## 🎛️ Interactivity & UX
-- Implemented dynamic filtering with **8+ slicers** covering channel, device, user segment, product, date range, category, and tier
+- Implemented dynamic filtering with **10 slicers** covering channel, device, user segment, product, date range, category, and tier
 - Built a custom label-switch slicer using a **field parameter pattern** (`LblSwitch`) to let users toggle between metric views without changing the underlying visuals, improving flexibility while keeping the layout clean
   
 <br>
