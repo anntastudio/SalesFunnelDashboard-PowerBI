@@ -4,8 +4,8 @@ Sales funnel analytics dashboard tracking conversions, revenue, and user segment
 <br>
 Dashboard Preview
 
+https://github.com/user-attachments/assets/baab0509-0423-483a-9a75-fb06f1ac9eea
 
-https://github.com/user-attachments/assets/b59a17f6-97ad-4727-9c69-4f955cb13dc9
 
 <br>
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/b59a17f6-97ad-4727-9c69-4f955cb13dc9
 
 ## 📐 DAX Measure Development
 - Created a dedicated `#Metrics` measures table with **15+ custom DAX measures**
-- Measures include: `Conversion Rate`, `Avg LTV`, `Revenue per User`, `Segment Share`, `Paid Revenue Share`, `Revenue Rank Display`, and conditional display measures for dynamic formatting
+- Measures include: `Revenue Rank`, `Conversion Rate`, `Total Orders`, `Total Revenue`, `Segment Share`, `Paid Revenue Share`, and conditional display measures for dynamic formatting
 - Separated raw calculation logic from display logic to keep the model clean and maintainable
   
 <br>
@@ -41,4 +41,4 @@ Built a multi-visual single-page dashboard featuring:
 
 ## 💼 Business Domain
 - Subscription/SaaS funnel analytics covering traffic-to-conversion tracking, revenue performance, user segmentation, and product-tier analysis
-- Metrics like `Avg LTV`, `Revenue per User`, and `Paid Revenue Share` reflect a product analytics mindset and familiarity with how SaaS businesses measure growth and monetization efficiency
+- Metrics like `Avg LTV`, `Conversion Rate`, and `Paid Revenue Share` reflect a product analytics mindset and familiarity with how SaaS businesses measure growth and monetization efficiency
