@@ -40,7 +40,7 @@ All measures are centralised in a dedicated `#Metrics` table, organised into **7
 | 1× Bar Chart | Users by age group, segment, and other breakdowns |
 | 1× Line Chart | Revenue / activity trends over time |
 | 1× Decomposition Tree | Drill-down root cause analysis |
-| 1× Bar Chart customised into Funnel Chart | Radial funnel or segment share view |
+| 1× Funnel Chart | Customised Bar Chart into Funnel with comparison to previous stages |
 | 1xTable | Supporting detail and labels with dynamic formatting |
 | Custom SVG Background | Branded layout backdrop |
 
