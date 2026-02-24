@@ -6,6 +6,13 @@ Dashboard Preview
 
 https://github.com/user-attachments/assets/baab0509-0423-483a-9a75-fb06f1ac9eea
 
+<br>
+
+## Overview
+
+- Tracks a full **sales/subscription funnel**: Page Views → Sign-ups → Orders → Revenue
+- Segments users by **age group, tier (free/paid), device**, and **traffic source**
+- Designed for teams tracking **acquisition, conversion, and monetisation** performance
 
 <br>
 
@@ -52,11 +59,3 @@ All measures are centralised in a dedicated `#Metrics` table, organised into **7
 - **Bookmark navigator + action buttons** for switching between filter groups
 - **Cross-filtering** enabled clicking one visual filters the rest
 - **Toggle switch** (`LblSwitch`) to flip between raw counts and percentages
-
-<br>
-
-## Business Domain
-
-- Tracks a full **sales/subscription funnel**: Page Views → Sign-ups → Orders → Revenue
-- Segments users by **age group, tier (free/paid), device**, and **traffic source**
-- Designed for teams tracking **acquisition, conversion, and monetisation** performance
