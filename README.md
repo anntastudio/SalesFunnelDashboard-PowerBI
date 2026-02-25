@@ -4,7 +4,11 @@ Sales funnel analytics dashboard tracking conversions, revenue, and user segment
 <br>
 Dashboard Preview
 
-https://github.com/user-attachments/assets/baab0509-0423-483a-9a75-fb06f1ac9eea
+
+
+https://github.com/user-attachments/assets/79f5ab20-df4f-472c-aabf-52e41d502801
+
+
 
 <br>
 
@@ -48,7 +52,7 @@ All measures are centralised in a dedicated `#Metrics` table, organised into **7
 | 1× Line Chart | Revenue / activity trends over time |
 | 1× Decomposition Tree | Drill-down root cause analysis |
 | 1× Funnel Chart | Customised Bar Chart into Funnel with comparison to previous stages |
-| 1xTable | Supporting detail and labels with dynamic formatting |
+| 1× Table | Supporting detail and labels with dynamic formatting |
 | Custom SVG Background | Branded layout backdrop |
 
 <br>
