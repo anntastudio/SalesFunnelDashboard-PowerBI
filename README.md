@@ -24,6 +24,14 @@ https://github.com/user-attachments/assets/ab76c747-f55e-4e80-b099-6e3b8f66cea0
 
 <br>
 
+## Key Findings
+
+- Critical funnel leak: only 9.7% of visitors complete a purchase. The sharpest drop is at the Add to Cart stage (-69%), suggesting that product pages are not compelling users to act. Suggestion to improve the cart call to action and product page experience.
+- Power Users convert at nearly 2x the average rate. Power Users represent only 20% of the user base but drive approximately 45% of total revenue. Prioritising Power User acquisition and nurturing casual/regular users towards this segment is a high-ROI growth strategy.
+- Paid Channels drive only 21.5% of revenue, Organic Search leads volume. This suggests SEO and content investment would compound returns over time.
+
+<br>
+
 ## Data Model
 
 - **Star schema** with 2 fact tables: `fact_funnel` (funnel steps) and `fact_user_events` (user activity)
