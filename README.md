@@ -51,7 +51,7 @@ All measures are centralised in a dedicated `#Metrics` table, organised into **7
 | 04. Product Category | `Avg List Price`, `Revenue Rank Display` | Product-level performance and ranking |
 | 05. Customer Segment | `Segment Share`, `Avg LTV` | Breakdown of users by tier, age group, and behaviour |
 | 06. Channel Acquisition | `Total Page Views`, `Conversion Rate` | Traffic source effectiveness and acquisition efficiency |
-| 07. Dynamic Visuals | `LblSwitch`, `Orders Display`, `Revenue Display`, `Middle Lbl Dynamic`, `Right Lbl` | Advanced DAX that drives conditional formatting and label toggling — switching visuals between raw counts and percentages at runtime without duplicating charts |
+| 07. Dynamic Visuals | `LblSwitch`, `Orders Display`, `Revenue Display`, `Middle Lbl Dynamic`, `Right Lbl` | Advanced DAX that drives conditional formatting and label toggling, switching visuals between raw counts and percentages at runtime without duplicating charts |
 
 <br>
 
